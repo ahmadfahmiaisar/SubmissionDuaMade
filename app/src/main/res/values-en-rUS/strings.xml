@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="search">Search Your Movie</string>
+    <string name="string_now_playing">Now Playing Movie</string>
+    <string name="up_coming_movie">Up Coming Movie</string>
+    <string name="action_settings">Change Setting Language</string>
+</resources>

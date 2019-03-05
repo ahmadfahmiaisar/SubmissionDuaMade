@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">BismillahSub2</string>
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+    <string name="nav_header_title" translatable="false">Ahmad Fahmi Aisar</string>
+    <string name="nav_header_subtitle" translatable="false">ahmad.fahmi2016@student.uny.ac.id</string>
+    <string name="nav_header_desc" translatable="false">Navigation header</string>
+    <string name="search">Search Movie</string>
+    <string name="string_now_playing">Now Playing Movie</string>
+    <string name="up_coming_movie">Up Coming Movie</string>
+    <string name="action_settings">Change Setting Language</string>
+    <string name="Subject" translatable="false">subject</string>
+</resources>
